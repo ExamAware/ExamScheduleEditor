@@ -1,6 +1,7 @@
 name: 构建
 
 on:
+  push:
   release:
     types: [published]
   pull_request:
