@@ -1,17 +1,15 @@
-# ExamShowBoard编辑器(legacy)    
+# ExamSchedule编辑器   
 > [!warning]
-> [**配置文件编辑器(legacy)不再维护** 如果您汇报使用此编辑器遇到的相关问题， **开发者可能不会受理。**](https://docs.examaware.us.kg/app/profile/faq.html#%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E7%BC%96%E8%BE%91%E5%99%A8-legacy)
+> 新版尚未完工……
 
 [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C901670561-blue?style=flat&logo=TencentQQ&logoColor=white)](https://qm.qq.com/q/zDiEipHsaI)
 
-![MainPage](/.Screenshots/main.png) <br>
-![AddInfoPage](/.Screenshots/addinfo.png) <br>
-![SavePage](/.Screenshots/save.png)
+![image](https://github.com/user-attachments/assets/551ec40c-3844-4d4b-9735-b683ba938c0c)
 
-一款为[考试看板](https://github.com/ExamAware/dsz-exam-showboard)软件配套的配置文件编写生成软件
+一款为[ExamSchedule](https://github.com/ExamAware/ExamSchedule)配套的配置文件编写生成，以及启动服务器的软件
 
 
-| 下载 | [Releases](https://github.com/ExamAware/DSZExamShowBoardEditor/releases/latest) |
+| 下载 | [Releases](https://github.com/ExamAware/ExamScheduleEditor/releases/latest) |
 | ---- | -------------------------------------------------------------------------------- | 
 
 ## 功能
@@ -21,6 +19,11 @@
      - 添加考试时间
      - 考试开始时间
      - 考试结束时间
+- 启动服务器
+  - 集控功能
+    - 客户端识别
+    - 根据ip自动分发配置
+  - 统一通知
 
 ## 开始使用
 - 下载安装程序并双击运行
